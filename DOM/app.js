@@ -40,8 +40,13 @@
 // console.log(val);
 
 
-// Creating Elements
-const li = document.createElement('li');
-li.setAttribute('class', 'myClass');
-li.appendChild(document.createTextNode('Hi There'));
-console.log(li);
+// ----- Creating Elements
+// const li = document.createElement('li');
+// li.setAttribute('class', 'myClass');
+// li.appendChild(document.createTextNode('Hi There'));
+// console.log(li);
+
+
+
+// ============================== Events ==============================
+
