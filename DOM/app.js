@@ -48,5 +48,10 @@
 
 
 
-// ============================== Events ==============================
+// ============================== Event Delegation ==============================
+// document.body.addEventListener('click', (e) => {
+//  if (e.target.parentElement.className === "delete-item secondary-content") {
+//   console.log(e.target);
+//  }
+// });
 
