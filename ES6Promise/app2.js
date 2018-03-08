@@ -1,1 +1,3 @@
-console.log('ES6 Promise');
+const myPromise = new Promise(function(resolve, reject) {
+  // Code goes here
+});
